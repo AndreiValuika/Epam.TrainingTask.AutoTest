@@ -5,7 +5,7 @@ using System.Threading;
 
 namespace Epam.TrainingTask.AutoTest
 {
-    public class Tests
+    public class GitButtonTest
     {
         private IWebDriver _driver;
         private const string SOURSE_URL = "https://github.com";
