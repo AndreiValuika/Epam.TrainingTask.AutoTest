@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageLib", "..\PageLib\PageLib.csproj", "{663EB41D-C0EB-4821-B657-7F778B8BF5EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{F2CC0520-7EBA-4A96-B74A-1E5A0A596165}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CC0520-7EBA-4A96-B74A-1E5A0A596165}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CC0520-7EBA-4A96-B74A-1E5A0A596165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663EB41D-C0EB-4821-B657-7F778B8BF5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663EB41D-C0EB-4821-B657-7F778B8BF5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663EB41D-C0EB-4821-B657-7F778B8BF5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663EB41D-C0EB-4821-B657-7F778B8BF5EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
