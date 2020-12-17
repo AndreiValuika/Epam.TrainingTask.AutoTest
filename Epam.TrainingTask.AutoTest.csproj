@@ -15,8 +15,4 @@
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="87.0.4280.8800" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\PageLib\PageLib.csproj" />
-  </ItemGroup>
-
 </Project>
